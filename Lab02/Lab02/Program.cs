@@ -26,7 +26,13 @@ namespace Lab02
 
             Console.WriteLine("Sum is {0}", sum ); // display sum
 
-        } // end Main
-    } // end class Mulitplication 
+            /*1. At the point of execution of C# console application starts at the main entry point*/
+            /*2. Float data allows a variable to store only one character. Starage size of data type is 4. A double data type is also same as float data type which allows up to 10 digits after decimal*/
+            /*3. creating a block of code for a setname method. the code is public void SetName(string accontName)
+             * name = accountName; // store the account name*/
+            /*4. inside, Outside */
+            /*5. A class is a template for objects and an object is a memebr or an "instance" of a class. You can put in one instances for a class. */
 
+        } // end Main
+    } // end class Mulitplication
 }

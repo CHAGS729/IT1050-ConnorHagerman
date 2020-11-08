@@ -12,7 +12,8 @@ namespace Lab02
         {
             int number1; // declare first number to multiply
             int number2; // declare first number to multiply 
-            int sum; // declare sum of number 1 and number 2 
+            int product; // declare sum of number 1 and number 2 
+           
 
             Console.Write("Enter first interger: "); // prompt user 
             //read first number from user 
@@ -22,9 +23,15 @@ namespace Lab02
             // read second number from user
             number2 = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine(number1 * number2); // display sum
 
-            sum = number1 * number2; // multiply numbers 
+            product = number1 * number2; // multiply numbers 
+
+            string str1 = "Hello ";
+            string str2 = str1 + "Connor!"; // str2 will equal Hello Connor!
+
+            Console.WriteLine("The product is " + product); // concatenation operator
+            Console.WriteLine($"The product is {product}"); // string interpolation
+            Console.WriteLine("The product is {0}", product, "100"); // formatted string
 
             Console.ReadLine();
 
@@ -34,6 +41,12 @@ namespace Lab02
              * name = accountName; // store the account name*/
             /*4. inside, Outside */
             /*5. A class is a template for objects and an object is a memebr or an "instance" of a class. You can put in one instances for a class. */
+
+            /*
+            
+                This is multi-line comment
+
+             */
 
         } // end Main
     } // end class Mulitplication

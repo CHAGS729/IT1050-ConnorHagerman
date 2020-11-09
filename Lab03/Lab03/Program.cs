@@ -10,9 +10,9 @@ namespace Lab03
     {
         static void Main(string[] args)
         {
-
+            // Lab 3
             int speedLimit = 35;
-            int speed = 45;
+            int speed = 35;
 
             if (speed == speedLimit)
             {
@@ -20,11 +20,11 @@ namespace Lab03
             }
             else if (speed <= 35)
             {
-                Console.WriteLine("True");
+                Console.WriteLine("Your speed is little slow, True");
             }
             else if (speed >= 35)
             {
-                Console.WriteLine("False");
+                Console.WriteLine("You're going a little fast, False");
             }
            
         }

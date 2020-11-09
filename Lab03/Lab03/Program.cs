@@ -10,7 +10,7 @@ namespace Lab03
     {
         static void Main(string[] args)
         {
-            // Lab 3
+            
             int speedLimit = 35;
             int speed = 35;
 

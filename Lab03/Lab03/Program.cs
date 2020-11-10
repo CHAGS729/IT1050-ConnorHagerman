@@ -11,7 +11,21 @@ namespace Lab03
     {
         static void Main(string[] args)
         {
+            int i = 1;
+            while (i < 10)
+            {
+                Console.WriteLine(i);
+                i++; // i = i + 1;
+            }
 
+            int p = 5;
+            while (p < 20)
+            {
+                Console.WriteLine(i);
+                p--; // i = i + 5;
+            }
+
+            Console.WriteLine("Program complete");
             /*
              * For Loop: https://www.youtube.com/watch?v=lvbVZ1C1rrk
              * If statement: https://www.youtube.com/watch?v=z_B7oVDs-tA
@@ -62,16 +76,6 @@ namespace Lab03
             }
 
             Console.WriteLine("Program is done");
-
-
-            int i = 1;
-            while (i < 10)
-            {
-                Console.WriteLine(i);
-                i++; // i = i + i
-            }
-
-            Console.WriteLine("Program complete");
         }
     }
 }

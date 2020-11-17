@@ -50,16 +50,14 @@ namespace Lab04
 
            Console.WriteLine("Program complete");
 
-
+            /*
             int temp = 1;
-
-
 
           if (temp < 10)
             {
                 Console.WriteLine("Print Polar Bears");
-            }
-            else if (temp < 20)
+            } 
+           if (temp < 20)
             {
                 Console.WriteLine("Print Penguin");
             }
@@ -91,6 +89,19 @@ namespace Lab04
             {
                 Console.WriteLine("Print Bug");
             }
+            */
+            /*
+             int i = 10;
+             while (i < 21)
+             {
+                 Console.WriteLine(i);
+                 i++; // i = i + 1
+             }
+            */
+
+            for ( i = 0; i < 101; i++)
+                Console.WriteLine(i);
+            Console.WriteLine("********" + i);
 
             Console.ReadKey();
         }

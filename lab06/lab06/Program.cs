@@ -51,10 +51,14 @@ namespace lab06
                 Console.ReadLine();
             }
 
-            string[]    "Al Dente", "Anna Graham", "Earle Bird", "Ginger Rayle", "Iona Ford" };
+            string[] name = { "Al Dente", "Anna Graham", "Earle Bird", "Ginger Rayle", "Iona Ford" };
+            int p = 0;
+            foreach (var character in names) ;
+            Console.WriteLine(name);
+            Console.WriteLine(p);
+            Console.ReadLine();
 
-            int  = 0;
-            while (n < names.Length)
+           
 
 
         }

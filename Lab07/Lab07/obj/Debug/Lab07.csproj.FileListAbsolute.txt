@@ -1,0 +1,7 @@
+C:\Users\conno\source\repos\CHAGS729\IT1050-ConnorHagerman\Lab07\Lab07\bin\Debug\Lab07.exe.config
+C:\Users\conno\source\repos\CHAGS729\IT1050-ConnorHagerman\Lab07\Lab07\bin\Debug\Lab07.exe
+C:\Users\conno\source\repos\CHAGS729\IT1050-ConnorHagerman\Lab07\Lab07\bin\Debug\Lab07.pdb
+C:\Users\conno\source\repos\CHAGS729\IT1050-ConnorHagerman\Lab07\Lab07\obj\Debug\Lab07.csprojAssemblyReference.cache
+C:\Users\conno\source\repos\CHAGS729\IT1050-ConnorHagerman\Lab07\Lab07\obj\Debug\Lab07.csproj.CoreCompileInputs.cache
+C:\Users\conno\source\repos\CHAGS729\IT1050-ConnorHagerman\Lab07\Lab07\obj\Debug\Lab07.exe
+C:\Users\conno\source\repos\CHAGS729\IT1050-ConnorHagerman\Lab07\Lab07\obj\Debug\Lab07.pdb
